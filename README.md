@@ -6,3 +6,4 @@
 ##### Cryus:
 ![cryus](https://github.com/GonkieDev/Gonkiedev/assets/109432021/4faa958a-431f-4369-aff7-49d005055cb3)
 
+All these 'games' were made using OpenGL + C with minimal libraries.
